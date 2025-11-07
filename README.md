@@ -2,7 +2,7 @@
 
 ---
 
-## 🇫🇷 فارسی
+## 🇮🇷 فارسی
 
 اسم پروژه: جیبای ۱  
 سازنده: تیم جیبای با رهبری پارسا کاظمی  
@@ -85,5 +85,6 @@ With Jibay 1, you can:
 - Team Jibay: Dedicated to AI research and development  
 - Lead: Parsa Kazemi  
 - Website: http://jibay.ir
+
 
 🌟 Enjoy exploring AI with Jibay 1! 🚀
