@@ -1,4 +1,4 @@
-# 🤖 Jibay 1 - هوش مصنوعی دو زبانه
+# 🤖 Jibay 1 - ربات پاسخگو
 
 ---
 
@@ -12,12 +12,11 @@
 
 ### 🌟 توضیحات
 
-جیبای ۱ یک هوش مصنوعی پیشرفته است که با هدف کمک به کاربران در یافتن پاسخ‌ها، ارائه اطلاعات مفید، و تعامل طبیعی ساخته شده است. این مدل بر پایه‌ی ۷۰ مگابایت داده آموزشی طراحی شده و توانایی پاسخ به سوالات فارسی و انگلیسی را دارد.  
+جیبای ۱ یک ربات پیشرفته است که با هدف کمک به کاربران در یافتن پاسخ‌ها، ارائه اطلاعات مفید، و تعامل طبیعی ساخته شده است. این مدل بر پایه‌ی ۷۰ مگابایت داده آموزشی طراحی شده و توانایی پاسخ به سوالات فارسی و انگلیسی را دارد.  
 
 با جیبای ۱ می‌توانید:  
 - 🧠 دریافت پاسخ‌های سریع و دقیق به سوالات عمومی و تخصصی  
 - 📚 دسترسی به اطلاعات علمی، تاریخی، فرهنگی و فنی  
-- ✍️ کمک در نوشتن متن، مقاله، و ترجمه  
 - 💬 تعامل طبیعی با تکه‌کلام‌ها و پاسخ‌های دوستانه  
 
 ### 💡 ویژگی‌ها
@@ -31,7 +30,7 @@
 
 1. فایل‌های مدل (`model-jibay1-0001.json` تا `model-jibay1-0008.json`) را بارگذاری کنید.  
 2. از طریق API یا رابط کاربری، سوال خود را ارسال کنید.  
-3. پاسخ هوش مصنوعی جیبای ۱ را دریافت و از آن استفاده کنید.  
+3. پاسخ ربات جیبای ۱ را دریافت و از آن استفاده کنید.  
 
 ### 📌 نکات مهم
 
@@ -51,12 +50,11 @@ Model Type: Question & Answer (QA)
 
 ### 🌟 Description
 
-Jibay 1 is an advanced AI designed to assist users in finding answers, providing useful information, and enabling natural interaction. The model is trained on 70 MB of educational data and can respond to questions in both Persian and English.  
+Jibay 1 is an advanced bot designed to assist users in finding answers, providing useful information, and enabling natural interaction. The model is trained on 70 MB of educational data and can respond to questions in both Persian and English.  
 
 With Jibay 1, you can:  
 - 🧠 Get fast and accurate answers to general and specialized questions  
 - 📚 Access scientific, historical, cultural, and technical knowledge  
-- ✍️ Receive help in writing text, articles, and translations  
 - 💬 Interact naturally with friendly greetings and conversational phrases  
 
 ### 💡 Features
@@ -70,7 +68,7 @@ With Jibay 1, you can:
 
 1. Load the model files (`model-jibay1-0001.json` to `model-jibay1-0008.json`).  
 2. Send your question via API or user interface.  
-3. Receive AI-generated answers from Jibay 1.  
+3. Receive bot-generated answers from Jibay 1.  
 
 ### 📌 Important Notes
 
@@ -87,4 +85,5 @@ With Jibay 1, you can:
 - Website: http://jibay.ir
 
 
-🌟 Enjoy exploring AI with Jibay 1! 🚀
+🌟 Enjoy exploring bot with Jibay 1! 🚀
+
